@@ -1,6 +1,6 @@
 # WAGI-DOTNET-RUBY
 
-This is a the WAGI-Ruby example from https://github.com/fermyon/wagi-ruby
+This is a copy of the WAGI-Ruby example from https://github.com/fermyon/wagi-ruby run using [wagi-dotnet](https://github.com/deislabs/wagi-dotnet).
 
 This example exposes a ruby script as a route endpoint in ASP.Net Core.
 
