@@ -70,3 +70,5 @@ HTTP_User_Agent=curl/7.68.0
 env.rb
 * Connection #0 to host 127.0.0.1 left intact
 ```
+
+There is also a live version of the example at https://rubywasm.azurewebsites.net/?env.rb
